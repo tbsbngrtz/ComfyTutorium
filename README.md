@@ -1,2 +1,1 @@
 "# ComfyTutorium" 
-![Termine](termine.png)
